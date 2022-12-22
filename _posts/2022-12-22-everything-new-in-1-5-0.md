@@ -46,4 +46,4 @@ Feel like breaking something? Shift-click the Settings icon to open *Developer T
 ## Conclusion
 With all the new features, we hope you guys enjoy BetterMeower 1.5.0, have a very merry Chistmas, and a happy new year! Later!
 
-*Written by JoshAtticus*
+*Posted by JoshAtticus*
