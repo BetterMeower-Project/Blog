@@ -8,7 +8,7 @@ Merry Christmas everyone! We're celebrating not only Christmas, but also 3 month
 *Posted by JoshAtticus*
 
 <script src="https://utteranc.es/client.js"
-        repo="BetterMeower-Project/Blog"
+        repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
         theme="preferred-color-scheme"
