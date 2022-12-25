@@ -49,7 +49,7 @@ With all the new features, we hope you guys enjoy BetterMeower 1.5.0, have a ver
 *Posted by JoshAtticus*
 
 <script src="https://utteranc.es/client.js"
-        repo="BetterMeower-Project/Blog"
+        repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
         theme="preferred-color-scheme"
