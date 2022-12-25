@@ -8,7 +8,7 @@ Our blog is the new home for all news, tips, tricks and updates related to Bette
 *Posted by JoshAtticus*
 
 <script src="https://utteranc.es/client.js"
-        repo="BetterMeower-Project/Blog"
+        repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
         theme="preferred-color-scheme"
