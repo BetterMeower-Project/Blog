@@ -7,7 +7,7 @@ Just like the title suggests, thanks to [utterenc.es](https://utterenc.es), you 
 *Posted by JoshAtticus*
 
 <script src="https://utteranc.es/client.js"
-        repo="BetterMeower-Project/Blog"
+        repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
         theme="preferred-color-scheme"
