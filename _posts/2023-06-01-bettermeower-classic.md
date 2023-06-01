@@ -13,6 +13,7 @@ BetterMeower Classic will recieve feature updates and compatiblity patches until
 
 ## Client compatibility
 If you still don't understand, here's a chart on BetterMeower client compatiblity
+
 | Client                                | CL3 | CL3.5   | CL4 | R1 |
 |---------------------------------------|-----|---------|-----|----|
 | Legacy BetterMeower (1.4 and earlier) | ✅   | Partial | ❌   | ❌  |
