@@ -11,7 +11,7 @@ Our blog is the new home for all news, tips, tricks and updates related to Bette
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

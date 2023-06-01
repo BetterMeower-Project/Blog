@@ -39,7 +39,7 @@ We hope you enjoy having BetterMeower as an alternate client option once again, 
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

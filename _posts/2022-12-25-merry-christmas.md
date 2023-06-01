@@ -11,7 +11,7 @@ Oh and don't forget the new year too! We hope 2023 is just as great as you do! Y
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

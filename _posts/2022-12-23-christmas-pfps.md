@@ -11,7 +11,7 @@ Merry Christmas everyone! We're celebrating not only Christmas, but also 3 month
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

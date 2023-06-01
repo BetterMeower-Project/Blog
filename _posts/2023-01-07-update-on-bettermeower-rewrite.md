@@ -13,7 +13,7 @@ I'd like to thank you for your patience, and feel free to ask any questions in t
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

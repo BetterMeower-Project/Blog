@@ -52,7 +52,7 @@ With all the new features, we hope you guys enjoy BetterMeower 1.5.0, have a ver
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

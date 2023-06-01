@@ -14,7 +14,7 @@ The rewrite will take multiple weeks, possibly months, but for now, BetterMeower
         repo="BetterMeower/Blog"
         issue-term="title"
         label="comment"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
