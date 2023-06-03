@@ -12,21 +12,18 @@ Quite a minor upgrade, but we've brought the Svelte 1.5.0 post tags to BetterMeo
 
 Bridged badges appear when a post is made using Meower's Discord bridge or Revower, while webhook badges appear on guest posts and webhook posts.
 
-![BetterMeower Classic post tags](./assets/Screenshot%202023-06-03%20at%2012.47.46%20pm.png)
 
 # Profiles that actually use all available space
 If you ever looked at a Meower Profile on Meower Svelte or previous versions of BetterMeower, you'll notice that profiles are quite empty, and if a user doesn't have a quote, it's even more so.
 
 That's where our new profiles come in, to actually use the available space. Now, you've got recent posts underneath quotes, making it easier to see user activity, and using more space.
 
-![BetterMeower Classic Profiles](./assets/Screenshot%202023-06-03%20at%2012.52.47%20pm.png)
 
 # Improved images system
 The previous image system was pretty bad, you would have to include a file extension, and it didn't support go.meower.org links, used by Meower Discord Bridge and Revower.
 
 Now, not only is a file extension no longer required, but we also support go.meower.org links!
 
-![Better images system in BetterMeower Classic](./assets/Screenshot%202023-06-03%20at%202.48.42%20pm.png)
 
 # Waaaaaaaaaaaay larger posts
 Ever felt like 360 characters just wasn't enough? Well thanks to a server-side change, you can make posts up to 4K characters long in home, and 2K characters long in group chats.
@@ -40,7 +37,6 @@ While this definitely appeals to a much smaller group of users, this change allo
 
 Surprisingly, this feature isn't in Meower Svelte, leaving moderators with the MeowyMod Bot, Meower Scratch, and BetterMeower Classic.
 
-![Moderation Panel in BetterMeower Classic](./assets/Screenshot%202023-06-03%20at%203.01.33%20pm.png)
 
 # Conclusion
 With BetterMeower Classic already having many new changes, we hope you enjoy the new updates and having an alternate Svelte-based client.
