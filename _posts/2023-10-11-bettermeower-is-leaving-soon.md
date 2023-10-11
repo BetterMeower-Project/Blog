@@ -8,9 +8,6 @@ In the past 3 months, usage and interest in BetterMeower has dropped over 200%, 
 
 We'd like to thank everyone for supporting BetterMeower and we can't wait to see what Meower has to offer in the future. Once our domain expires, you'll have to switch to another client such as the official Meower client at [https://app.meower.org](https://app.meower.org).
 
-It doesn't have to be this way though, even donating $1 can help us afford to renew our domain and keep BetterMeower alive, so if you can, please donate to us through [GoFundMe](https://www.gofundme.com/f/help-bettermeower-stay-alive?utm_source=customer&utm_medium=copy_link&utm_campaign=p_lico+share-sheet)
-
-
 *Posted by JoshAtticus*
 
 <script src="https://utteranc.es/client.js"
